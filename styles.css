@@ -1,9 +1,15 @@
+body {
+    background-image: url('clouds.webp');
+    background-repeat: no-repeat;
+}
+
+
 .content {
-    height: 500px;
+    height: 400px;
     width: 500px;
     margin:auto;
     padding: 50px;
-    background-color: rgba(250, 223, 243, 0.539);
+    background-color: rgba(247, 220, 240, 0.504);
     border:thick solid rgb(213, 99, 184);
-
+    color:rgb(0, 0, 0)
 }
