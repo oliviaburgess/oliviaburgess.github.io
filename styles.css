@@ -1,0 +1,9 @@
+.content {
+    height: 500px;
+    width: 500px;
+    margin:auto;
+    padding: 50px;
+    background-color: rgba(250, 223, 243, 0.539);
+    border:thick solid rgb(213, 99, 184);
+
+}
