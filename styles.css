@@ -1,6 +1,6 @@
 body {
-    background-image: url('clouds.webp');
-    background-repeat: no-repeat;
+    background-image: url('images/header.png');
+    background-repeat: repeat;
 }
 
 
@@ -9,7 +9,7 @@ body {
     width: 500px;
     margin:auto;
     padding: 50px;
-    background-color: rgba(247, 220, 240, 0.504);
+    background-color: rgb(247, 220, 240);
     border:thick solid rgb(213, 99, 184);
     color:rgb(0, 0, 0)
 }
